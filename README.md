@@ -21,7 +21,7 @@ pip install matplotlib numpy pandas scipy
 
 ## Data Format
 
-The input Excel file (`test1.xlsx`) should contain three columns: `x`, `y`, and `z`, representing the coordinates and associated values.
+The input Excel/CSV file should contain three columns: `x`, `y`, and `z`, representing the coordinates and associated values.
 
 | x   | y   | z   |
 |-----|-----|-----|
